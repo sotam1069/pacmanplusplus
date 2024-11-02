@@ -50,10 +50,6 @@ Y - Automatically Win Game (Testing purposes).
 
 Spacebar - Sorts collected powerups by rank and uses the first powerup in the collection.
 
-------------------
-
-## Team:
-
-Juan E. Quintana: juan.quintana5@upr.edu
+-----------------
 
 Pedro Matos: pedro.matos9@upr.edu
